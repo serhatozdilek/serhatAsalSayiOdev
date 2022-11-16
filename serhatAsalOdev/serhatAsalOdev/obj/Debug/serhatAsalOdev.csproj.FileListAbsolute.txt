@@ -1,0 +1,11 @@
+C:\Users\Serhat\Desktop\serhatodevv2\serhatAsalOdev\serhatAsalOdev\bin\Debug\serhatAsalOdev.exe.config
+C:\Users\Serhat\Desktop\serhatodevv2\serhatAsalOdev\serhatAsalOdev\bin\Debug\serhatAsalOdev.exe
+C:\Users\Serhat\Desktop\serhatodevv2\serhatAsalOdev\serhatAsalOdev\bin\Debug\serhatAsalOdev.pdb
+C:\Users\Serhat\Desktop\serhatodevv2\serhatAsalOdev\serhatAsalOdev\obj\Debug\serhatAsalOdev.csproj.AssemblyReference.cache
+C:\Users\Serhat\Desktop\serhatodevv2\serhatAsalOdev\serhatAsalOdev\obj\Debug\serhatAsalOdev.csproj.SuggestedBindingRedirects.cache
+C:\Users\Serhat\Desktop\serhatodevv2\serhatAsalOdev\serhatAsalOdev\obj\Debug\serhatAsalOdev.Form1.resources
+C:\Users\Serhat\Desktop\serhatodevv2\serhatAsalOdev\serhatAsalOdev\obj\Debug\serhatAsalOdev.Properties.Resources.resources
+C:\Users\Serhat\Desktop\serhatodevv2\serhatAsalOdev\serhatAsalOdev\obj\Debug\serhatAsalOdev.csproj.GenerateResource.cache
+C:\Users\Serhat\Desktop\serhatodevv2\serhatAsalOdev\serhatAsalOdev\obj\Debug\serhatAsalOdev.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\serhatodevv2\serhatAsalOdev\serhatAsalOdev\obj\Debug\serhatAsalOdev.exe
+C:\Users\Serhat\Desktop\serhatodevv2\serhatAsalOdev\serhatAsalOdev\obj\Debug\serhatAsalOdev.pdb
